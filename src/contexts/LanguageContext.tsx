@@ -75,7 +75,7 @@ const translations = {
     // Contact
     'contact.label': 'Get in Touch',
     'contact.title': 'Visit Us',
-    'contact.address': 'Bonanjo District, Douala, Cameroon',
+    'contact.address': '1163 street Njo-Njo Bonapriso, Douala, Cameroon',
     'contact.hours': 'Open Daily: 5PM - 2AM',
     'contact.phone': 'Call Us',
     'contact.whatsapp': 'WhatsApp',
@@ -151,7 +151,7 @@ const translations = {
     // Contact
     'contact.label': 'Contactez-Nous',
     'contact.title': 'Rendez-Nous Visite',
-    'contact.address': 'Quartier Bonanjo, Douala, Cameroun',
+    'contact.address': '1163 Rue Njo-Njo Bonapriso, Douala, Cameroun',
     'contact.hours': 'Ouvert tous les jours : 17h - 2h',
     'contact.phone': 'Appelez-Nous',
     'contact.whatsapp': 'WhatsApp',
